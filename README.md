@@ -1,1 +1,2 @@
 # dia-das-maes
+Este é um projeto HTML que fiz para minha mãe em homenagem ao Dia das Mães. Ele apresenta uma página web simples e elegante com uma mensagem de amor para minha mãe. O projeto inclui elementos como imagens, texto e formatação em HTML e CSS para criar um design bonito e intuitivo. Se você está procurando uma maneira criativa de mostrar seu amor e apreço por sua mãe, este projeto pode ser uma inspiração. Sinta-se à vontade para usá-lo como base para suas próprias ideias e personalizações.
