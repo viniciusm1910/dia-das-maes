@@ -106,6 +106,13 @@ main {
     text-transform: uppercase;
 }
 
+.third-text {
+    margin-bottom: 7rem;
+    font-size: 2rem;
+    color: rgb(249, 237, 237);
+    text-transform: uppercase;
+}
+
 /* Botões */
 
 .btns {
